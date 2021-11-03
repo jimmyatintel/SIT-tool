@@ -1,0 +1,66 @@
+2021-10-07 16:27:43,292 [INFO] [main] Logger initialized succussfully.
+2021-10-07 16:27:43,292 [INFO] [main] Loading configuration from settings.ini ...
+2021-10-07 16:27:43,293 [INFO] [load_config] Loading configuration from settings.ini...
+2021-10-07 16:27:43,294 [WARNING] [main] Debug mode is enabled!!!
+2021-10-07 16:27:43,294 [INFO] [__init__] Initializing UI components ...
+2021-10-07 16:27:43,488 [INFO] [__init__] Loading banner...
+2021-10-07 16:27:43,623 [INFO] [config_font] Configuring font style...
+2021-10-07 16:27:43,653 [INFO] [customer_panel] Creating customer panel...
+2021-10-07 16:27:43,664 [INFO] [optional_panel] Creating optional panel...
+2021-10-07 16:27:44,400 [INFO] [issue_panel] Creating Issue panel...
+2021-10-07 16:27:44,406 [INFO] [issue_panel] Adding issue "Audio related" at "0"
+2021-10-07 16:27:44,408 [INFO] [issue_panel] Adding issue "BIOS related" at "1"
+2021-10-07 16:27:44,409 [INFO] [issue_panel] Adding issue "CSME" at "2"
+2021-10-07 16:27:44,410 [INFO] [issue_panel] Adding issue "Graphics related" at "3"
+2021-10-07 16:27:44,411 [INFO] [issue_panel] Adding issue "I2C" at "4"
+2021-10-07 16:27:44,411 [INFO] [issue_panel] Adding issue "Live Dump File" at "5"
+2021-10-07 16:27:44,412 [INFO] [issue_panel] Adding issue "Storage related" at "6"
+2021-10-07 16:27:44,413 [INFO] [issue_panel] Adding issue "System Performance" at "7"
+2021-10-07 16:27:44,414 [INFO] [issue_panel] Adding issue "Thunderbolt related" at "8"
+2021-10-07 16:27:44,471 [INFO] [ingrdient_panel] Creating Ingredient panel...
+2021-10-07 16:27:44,472 [INFO] [create_trace_selection] Adding trace "ACPI Code dump"
+2021-10-07 16:27:44,473 [INFO] [create_trace_selection] Adding trace "AUX Driver BSOD/System Hang"
+2021-10-07 16:27:44,474 [INFO] [create_trace_selection] Adding trace "AUX Driver Yellow Bang"
+2021-10-07 16:27:44,475 [INFO] [create_trace_selection] Adding trace "Boot Trace"
+2021-10-07 16:27:44,475 [INFO] [create_trace_selection] Adding trace "DAL Driver Log"
+2021-10-07 16:27:44,476 [INFO] [create_trace_selection] Adding trace "Display"
+2021-10-07 16:27:44,477 [INFO] [create_trace_selection] Adding trace "GSC Driver BSOD/System Hang"
+2021-10-07 16:27:44,479 [INFO] [create_trace_selection] Adding trace "GSC Driver Yellow Bang"
+2021-10-07 16:27:44,481 [INFO] [create_trace_selection] Adding trace "High Loading Activities"
+2021-10-07 16:27:44,487 [INFO] [create_trace_selection] Adding trace "I2C"
+2021-10-07 16:27:44,489 [INFO] [create_trace_selection] Adding trace "I2C ACPI"
+2021-10-07 16:27:44,492 [INFO] [create_trace_selection] Adding trace "ISST"
+2021-10-07 16:27:44,493 [INFO] [create_trace_selection] Adding trace "Idle ETL"
+2021-10-07 16:27:44,494 [INFO] [create_trace_selection] Adding trace "Installer Log"
+2021-10-07 16:27:44,496 [INFO] [create_trace_selection] Adding trace "Intel Storage Trace"
+2021-10-07 16:27:44,499 [INFO] [create_trace_selection] Adding trace "LMS Driver Log"
+2021-10-07 16:27:44,500 [INFO] [create_trace_selection] Adding trace "Live Dump File"
+2021-10-07 16:27:44,501 [INFO] [create_trace_selection] Adding trace "MEI Driver BSOD/System Hang"
+2021-10-07 16:27:44,502 [INFO] [create_trace_selection] Adding trace "MEI Driver Yellow Bang"
+2021-10-07 16:27:44,504 [INFO] [create_trace_selection] Adding trace "N/A"
+2021-10-07 16:27:44,507 [INFO] [create_trace_selection] Adding trace "Optane Logs"
+2021-10-07 16:27:44,508 [INFO] [create_trace_selection] Adding trace "RST Logs"
+2021-10-07 16:27:44,509 [INFO] [create_trace_selection] Adding trace "Realtime BSOD"
+2021-10-07 16:27:44,510 [INFO] [create_trace_selection] Adding trace "Runtime ACPI Code"
+2021-10-07 16:27:44,513 [INFO] [create_trace_selection] Adding trace "SLP_S0 Status"
+2021-10-07 16:27:44,517 [INFO] [create_trace_selection] Adding trace "SPD Driver BSOD/System Hang"
+2021-10-07 16:27:44,518 [INFO] [create_trace_selection] Adding trace "SPD Driver Yellow Bang"
+2021-10-07 16:27:44,521 [INFO] [create_trace_selection] Adding trace "System Information"
+2021-10-07 16:27:44,523 [INFO] [create_trace_selection] Adding trace "TBT (S0/S3/S4)"
+2021-10-07 16:27:44,524 [INFO] [create_trace_selection] Adding trace "TBT (boot)"
+2021-10-07 16:27:44,526 [INFO] [create_trace_selection] Adding trace "USB"
+2021-10-07 16:27:44,528 [INFO] [create_trace_selection] Adding trace "Unexpected Reset"
+2021-10-07 16:27:44,530 [INFO] [create_trace_selection] Adding trace "Video/performance"
+2021-10-07 16:27:44,531 [INFO] [create_trace_selection] Adding trace "Wiman Driver Log"
+2021-10-07 16:27:44,532 [INFO] [create_trace_selection] Adding trace "iCLS Driver Log"
+2021-10-07 16:27:44,540 [INFO] [collect_panel] Creating Collect panel...
+2021-10-07 16:27:44,557 [INFO] [greyout_bindings] Binding grayout events to actions...
+2021-10-07 16:27:44,558 [INFO] [__init__] Adding Intel label...
+2021-10-07 16:27:44,575 [INFO] [__init__] Successfully initialized UI components.
+2021-10-07 16:27:44,575 [ERROR] [handle_boot_traces] No boot trace found active. Aborted.
+2021-10-07 16:27:44,580 [INFO] [main] Successfully handled boot traces
+2021-10-07 16:27:44,581 [INFO] [main] Detecting cpu info ...
+2021-10-07 16:27:44,614 [INFO] [main] CPU info: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+2021-10-07 16:27:44,614 [INFO] [main] Successfully found Intel cpu.
+2021-10-07 16:28:07,520 [INFO] [abort] User pressed Cancel, clearing all input & grey out...
+2021-10-07 16:28:07,520 [ERROR] [suggest_trace] Issue "None" not recognized.

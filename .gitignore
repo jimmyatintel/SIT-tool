@@ -1,0 +1,11 @@
+__pycache__/*
+*.ini
+*.log
+build/
+__init__.py
+_resource/
+UI.spec
+*.zip
+dist/UI/
+*.ctl
+.vscode/
